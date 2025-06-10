@@ -1,0 +1,19 @@
+.btn {
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    width: fit-content;
+    border: none;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    color: var(--black-color);
+}
+
+.btn-secondary {}
+
+.btn-tertiary {
+    background-color: var(--tertiary-color);
+    color: var(--secondary-color);
+}

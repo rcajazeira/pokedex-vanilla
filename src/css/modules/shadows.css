@@ -1,0 +1,23 @@
+.text-shadow-sm {
+    text-shadow: rgba(0, 0, 0, 0.15);
+}
+
+.text-shadow-md {
+    text-shadow: rgba(0, 0, 0, 0.50);
+}
+
+.text-shadow-lg {
+    text-shadow: rgba(0, 0, 0, 0.75);
+}
+
+.shadow-sm {
+    box-shadow: rgba(0, 0, 0, 0.15);
+}
+
+.shadow-md {
+    box-shadow: rgba(0, 0, 0, 0.50);
+}
+
+.shadow-lg {
+    box-shadow: rgba(0, 0, 0, 0.75);
+}

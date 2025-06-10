@@ -1,0 +1,16 @@
+.text-large {
+    font-size: 4rem;
+}
+
+.text-primary {
+    color: var(--primary-color);
+}
+
+.text-secondary {
+    color: var(--secondary-color);
+}
+
+.text-tertiary {
+    color: var(--tertiary-color);
+
+}

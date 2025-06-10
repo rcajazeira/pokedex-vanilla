@@ -1,0 +1,17 @@
+.pokemon-list{
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 0 6rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    list-style: none;
+
+    .pokemon-list__pokemon{
+        text-align: center;
+        border: 1px solid var(--secondary-color);
+        border-radius: 0.5rem;
+        padding: 0.25rem;
+    }
+}

@@ -1,0 +1,20 @@
+/* Importação de fontes */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Importação de modulos */
+@import url("./css/modules/variables.css");
+@import url("./css/modules/shadows.css");
+@import url("./css/modules/forms.css");
+@import url("./css/modules/text.css");
+@import url("./css/modules/buttons.css");
+@import url("./css/modules/application-header.css");
+@import url("./css/modules/pokemon-list.css");
+@import url("./css/modules/loader.css");
+
+/* Configurações Globais */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
