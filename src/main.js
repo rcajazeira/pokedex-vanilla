@@ -199,7 +199,7 @@ form.addEventListener('submit', (e) => {
 
 /* Outra melhoria */
 
-import "./style.css"
+import "style.css"
 
 let pokemonData = [] // Todos os Pokémon carregados da API
 let displayedPokemon = [] // Pokémon filtrados para exibição
